@@ -1,1 +1,1 @@
-{"signature":"MP1LghVtGvjeGzhPH236iMdnlIttFF0bRHg8tCO4I61Djb+XKFGmewZ7g4GaKNNLgFHNe3ZURFfQdVEPMWioDA==","timestamp":"2025-11-24T16:58:40.383142446Z","key_id":"bfad63239fdc4138","algorithm":"ed25519","hash_algo":"blake2s"}
+{"signature":"8Z63P0bt50llJhfuSjdrctyOe6KNC7OuovFxy7Pq4T5KVmpj/KiRgb6U/r0VNDzBKEhXCRp4c46X3YNYKh/iCg==","timestamp":"2025-11-24T17:06:37.869001094Z","key_id":"bfad63239fdc4138","algorithm":"ed25519","hash_algo":"blake2s"}
